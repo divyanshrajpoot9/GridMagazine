@@ -1,7 +1,7 @@
 # GridMagazine
 
 # GridTemplates
-### Hosted Link: 
+### Hosted Link: https://divyanshrajpoot9.github.io/GridMagazine/
 
 In CSS, a grid refers to a layout system that allows you to create complex, two-dimensional layouts with rows and columns. CSS Grid is a powerful tool for designing web page layouts and organizing content. Here's an explanation of CSS Grid in points:
 
